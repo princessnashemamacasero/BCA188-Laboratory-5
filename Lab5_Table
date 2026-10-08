@@ -1,0 +1,7 @@
+| Knob Position | ADC Reading | PWM Reading | Expected Result    |
+| :-----------: | :---------: | :---------: | :----------------: |
+| Minimum       | 0           | 0           | OFF                |
+| Low           | 250         | 16          | DIM                |
+| Middle        | 1200        | 75          | MEDIUM BRIGHTNESS  |
+| High          | 2500        | 156         | BRIGHT             |
+| Maximum       | 4095        | 255         | MAXIMUM BRIGHTNESS |
